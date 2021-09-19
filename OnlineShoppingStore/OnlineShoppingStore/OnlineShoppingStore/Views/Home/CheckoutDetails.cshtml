@@ -58,23 +58,23 @@ else
                         <table class="table table-bordered">
                             <tr>
                                 <td> <label for="name" class="cart-item cart-header cart-column"> <b>Card name:</b></label>   </td>
-                                <td class="cart-item cart-header cart-column">    <input type="text" placeholder="Enter card hoder name" name="name" required> </td>
+                                <td class="cart-item cart-header cart-column">    <input id="name" type="text" placeholder="Enter card hoder name" name="name" required> </td>
                             </tr>
                             <tr>
                                 <td>   <label for="numb" class="cart-item cart-header cart-column"><b>Card Number:</b></label>  </td>
-                                <td class="cart-item cart-header cart-column"> <input type="text" placeholder="Enter number" name="numb" required> </td>
+                                <td class="cart-item cart-header cart-column"> <input id="CardNumber" type="text" placeholder="Enter number" name="numb" required> </td>
                             </tr>
                             <tr>
                                 <td> <label for="cvv" class="cart-item cart-header cart-column"><b>CVV:</b></label>   </td>
-                                <td class="cart-item cart-header cart-column">    <input type="password" placeholder="Enter CVV" name="cvv" required>  </td>
+                                <td class="cart-item cart-header cart-column">    <input id="cvv" type="password" placeholder="Enter CVV" name="cvv" required>  </td>
                             </tr>
                             <tr>
                                 <td>    <label for="date" class="cart-item cart-header cart-column"><b>Expiration Dates:</b></label> </td>
-                                <td class="cart-item cart-header cart-column">   <input type="date" name="date" required>  </td>
+                                <td class="cart-item cart-header cart-column">   <input id="dates" type="date" name="date" required>  </td>
                             </tr>
 
                         </table>
-                        <a href="@Url.Action("SuccessView", "Payment")" class="btn btn-success">Payment >></a>
+                        <a id="Payment" href="@Url.Action("SuccessView", "Payment")" class="btn btn-success">Payment >></a>
 
 
                     </div>

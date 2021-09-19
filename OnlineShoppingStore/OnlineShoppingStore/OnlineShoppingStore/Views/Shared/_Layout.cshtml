@@ -29,7 +29,7 @@
 
                 <ul class="nav navbar-nav navbar-right">
                     <li class="dropdown">
-                        <a data-toggle="dropdown" class="dropdown-toggle" href="#">Cart <b class="caret"></b></a>
+                        <a id= "dropdown" data-toggle="dropdown" class="dropdown-toggle" href="#">Cart <b class="caret"></b></a>
                         <ul class="dropdown-menu">
                             @if (Session["cart"] != null)
                             {
@@ -41,7 +41,7 @@
                                 }
                             }
                             <li class="divider"></li>
-                            <li><a href="@Url.Action("Checkout","Home")">Checkout</a></li>
+                            <li><a id="Checkout" href="@Url.Action("Checkout","Home")">Checkout</a></li>
                         </ul>
                     </li>
                 </ul>
@@ -54,7 +54,7 @@
 
                     <ul class="nav nav-pills">
                         <li class="active"><a style="border-radius:initial;"href="../Home/Index">Home</a></li>
-                        <li><a style="border-radius:initial;" href="../Home/Login">Login</a></li>
+                        <li><a id="login1" style="border-radius:initial;" href="../Home/Login">Login</a></li>
                         <li><a style="border-radius:initial;" href="../Home/Location">Location</a></li>
                         <li><a style="border-radius:initial;" href="../Home/Contact">Contact US</a></li>
                         <li><a style="border-radius:initial;" href="../Home/About">About</a></li>

@@ -1,0 +1,293 @@
+﻿2021-09-19T02:24:11.3016812+03:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2021-09-19T02:24:11.3018782+03:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.9.7 in Framework netcore31 in x64 mode execution started
+2021-09-19T02:24:11.3018818+03:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\pc\Desktop\.NET\phase4\project-4\OnlineShoppingStore\OnlineShoppingStore\SpecFlowProject1\bin\Debug\netcoreapp3.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2021-09-19T02:24:11.3045225+03:00;VSTestExecutionThread;Info;Current UserName: 'pc', MachineName: 'LAPTOP-A1FCB940'
+2021-09-19T02:24:11.3370763+03:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\pc\Desktop\.NET\phase4\project-4\OnlineShoppingStore\OnlineShoppingStore\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowProject1.dll
+2021-09-19T02:24:11.3375449+03:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\pc\Desktop\.NET\phase4\project-4\OnlineShoppingStore\OnlineShoppingStore\TestResults" (default)
+2021-09-19T02:24:11.3378250+03:00;VSTestExecutionThread;Info;Profile: 
+2021-09-19T02:24:11.3988165+03:00;VSTestExecutionThread;Info;Log file path: C:\Users\pc\Desktop\.NET\phase4\project-4\OnlineShoppingStore\OnlineShoppingStore\TestResults\Unnamed project__2021-09-19T022411.log
+2021-09-19T02:24:11.4048559+03:00;Thread#12;Info;Checking activation
+2021-09-19T02:24:11.5126562+03:00;Thread#12;Info;Activated.
+2021-09-19T02:24:11.5130588+03:00;Thread#12;Info;Activation check completed
+2021-09-19T02:24:11.5133147+03:00;Thread#12;Info;Starting test run
+2021-09-19T02:24:11.6221216+03:00;Thread#12;Info;Discovering target: Default
+2021-09-19T02:24:11.6225476+03:00;Thread#12;Info;Discovering tests from assembly: C:\Users\pc\Desktop\.NET\phase4\project-4\OnlineShoppingStore\OnlineShoppingStore\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowProject1.dll
+2021-09-19T02:24:11.7200154+03:00;Thread#12;Info;Discovered tests from assembly: C:\Users\pc\Desktop\.NET\phase4\project-4\OnlineShoppingStore\OnlineShoppingStore\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowProject1.dll
+2021-09-19T02:24:11.7217213+03:00:Test Suite Dump
+2021-09-19T02:24:11.7238568+03:00:#0: Unnamed project/ - 
+2021-09-19T02:24:11.7238798+03:00:#1: Default - 
+2021-09-19T02:24:11.7238824+03:00:#2: SpecFlowProject1 - 
+2021-09-19T02:24:11.7238841+03:00:#3: Login - 
+2021-09-19T02:24:11.7254047+03:00:#4: preform Login of Joe’s Pizza demo site - TestAssembly:SpecFlowProject1/Feature:Login/Scenario:preform+Login+of+Joe%e2%80%99s+Pizza+demo+site
+2021-09-19T02:24:11.7254463+03:00:End: Test Suite Dump
+2021-09-19T02:24:11.7453416+03:00:Thread#0:Scheduler: get next test for thread 0
+2021-09-19T02:24:11.7474926+03:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2021-09-19T02:24:11.7475526+03:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2021-09-19T02:24:11.7514061+03:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2021-09-19T02:24:11.7514189+03:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2021-09-19T02:24:11.7514271+03:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2021-09-19T02:24:11.7514305+03:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2021-09-19T02:24:11.7521926+03:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2021-09-19T02:24:11.7534125+03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2021-09-19T02:24:11.7560475+03:00:Thread #0: creating new test thread executor for SpecFlowProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2021-09-19T02:24:11.7590466+03:00:Thread #0: Creating test assembly executor for execution model OutProc
+2021-09-19T02:24:11.7592735+03:00:Thread #0: Creating test assembly executor for execution model OutProc
+2021-09-19T02:24:11.7620917+03:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.OutOfProc.StreamJsonRPC.OutOfProcessTestAssemblyExecutorHost to execute tests
+2021-09-19T02:24:11.7640970+03:00:starting Out Of Process Executor
+2021-09-19T02:24:11.7668142+03:00:Assembly resolving Microsoft.VisualStudio.Validation, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2021-09-19T02:24:11.7710376+03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' from .deps.json file
+2021-09-19T02:24:11.7710604+03:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' from .deps.json
+2021-09-19T02:24:11.7726261+03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\pc\Desktop\.NET\phase4\project-4\OnlineShoppingStore\OnlineShoppingStore\SpecFlowProject1\bin\Debug\netcoreapp3.1'
+2021-09-19T02:24:11.7730715+03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\pc\Desktop\.NET\phase4\project-4\OnlineShoppingStore\OnlineShoppingStore\SpecFlowProject1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll'
+2021-09-19T02:24:11.7732617+03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\pc\Desktop\.NET\phase4\project-4\OnlineShoppingStore\OnlineShoppingStore\SpecFlowProject1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.exe'
+2021-09-19T02:24:11.7733267+03:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\pc\Desktop\.NET\phase4\project-4\OnlineShoppingStore\OnlineShoppingStore\SpecFlowProject1\bin\Debug\netcoreapp3.1'
+2021-09-19T02:24:11.7735760+03:00:TargetFramework: .NETCoreApp,Version=v3.1
+2021-09-19T02:24:11.7742622+03:00:Tfm: netcoreapp3.1
+2021-09-19T02:24:11.7742758+03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\pc\Desktop\.NET\phase4\project-4\OnlineShoppingStore\OnlineShoppingStore\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-09-19T02:24:11.7742784+03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\pc\Desktop\.NET\phase4\project-4\OnlineShoppingStore\OnlineShoppingStore\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll'
+2021-09-19T02:24:11.7744393+03:00:[AssemblyCache] Found file 'C:\Users\pc\Desktop\.NET\phase4\project-4\OnlineShoppingStore\OnlineShoppingStore\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll' for assembly 'Microsoft.VisualStudio.Validation'
+2021-09-19T02:24:11.7752587+03:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.Validation' to C:\Users\pc\Desktop\.NET\phase4\project-4\OnlineShoppingStore\OnlineShoppingStore\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll
+2021-09-19T02:24:11.7760065+03:00:Starting callback TCP Rpc server
+2021-09-19T02:24:11.7969427+03:00:Asynchronously starting background TCP Rpc Server on port 32768
+2021-09-19T02:24:11.7969896+03:00:Started callback TCP Rpc server on port 32768
+2021-09-19T02:24:11.7969926+03:00:Starting logger TCP Rpc server
+2021-09-19T02:24:11.8006262+03:00:Asynchronously starting background TCP Rpc Server on port 32769
+2021-09-19T02:24:11.8006616+03:00:Started logger TCP Rpc server on port 32769
+2021-09-19T02:24:11.8947263+03:00:Executing test executor at 'dotnet' 'exec "C:\Users\pc\Desktop\.NET\phase4\project-4\OnlineShoppingStore\OnlineShoppingStore\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp3_1.dll" --remoteRunnerPid 25996 --uniqueId "2021-09-19T022411" --outputFolder "C:\Users\pc\Desktop\.NET\phase4\project-4\OnlineShoppingStore\OnlineShoppingStore\TestResults" --callbackPort 32768 --loggerPort 32769' in 'C:\Users\pc\Desktop\.NET\phase4\project-4\OnlineShoppingStore\OnlineShoppingStore\SpecFlowProject1\bin\Debug\netcoreapp3.1'
+2021-09-19T02:24:11.9378673+03:00:Executor with PID 26984 has been started successfully.
+2021-09-19T02:24:11.9414974+03:00:Out of Process Executor 26984 started
+2021-09-19T02:24:11.9415181+03:00:Waiting for endpoint
+2021-09-19T02:24:12.4078103+03:00:Assembly resolving StreamJsonRpc.resources, Version=1.4.0.0, Culture=ar-SA, PublicKeyToken=b03f5f7f11d50a3a
+2021-09-19T02:24:12.4079093+03:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' from .deps.json file
+2021-09-19T02:24:12.4079213+03:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' from .deps.json
+2021-09-19T02:24:12.4079435+03:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Users\pc\Desktop\.NET\phase4\project-4\OnlineShoppingStore\OnlineShoppingStore\SpecFlowProject1\bin\Debug\netcoreapp3.1'
+2021-09-19T02:24:12.4079462+03:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Users\pc\Desktop\.NET\phase4\project-4\OnlineShoppingStore\OnlineShoppingStore\SpecFlowProject1\bin\Debug\netcoreapp3.1\StreamJsonRpc.resources.dll'
+2021-09-19T02:24:12.4080314+03:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Users\pc\Desktop\.NET\phase4\project-4\OnlineShoppingStore\OnlineShoppingStore\SpecFlowProject1\bin\Debug\netcoreapp3.1\StreamJsonRpc.resources.exe'
+2021-09-19T02:24:12.4081008+03:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Users\pc\Desktop\.NET\phase4\project-4\OnlineShoppingStore\OnlineShoppingStore\SpecFlowProject1\bin\Debug\netcoreapp3.1'
+2021-09-19T02:24:12.4081143+03:00:TargetFramework: .NETCoreApp,Version=v3.1
+2021-09-19T02:24:12.4082196+03:00:Tfm: netcoreapp3.1
+2021-09-19T02:24:12.4082248+03:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Users\pc\Desktop\.NET\phase4\project-4\OnlineShoppingStore\OnlineShoppingStore\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-09-19T02:24:12.4082261+03:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Users\pc\Desktop\.NET\phase4\project-4\OnlineShoppingStore\OnlineShoppingStore\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\StreamJsonRpc.resources.dll'
+2021-09-19T02:24:12.4082945+03:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Users\pc\Desktop\.NET\phase4\project-4\OnlineShoppingStore\OnlineShoppingStore\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\StreamJsonRpc.resources.exe'
+2021-09-19T02:24:12.4083668+03:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Users\pc\Desktop\.NET\phase4\project-4\OnlineShoppingStore\OnlineShoppingStore\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-09-19T02:24:12.4164786+03:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.15'
+2021-09-19T02:24:12.4165069+03:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.15\StreamJsonRpc.resources.dll'
+2021-09-19T02:24:12.4165975+03:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.15\StreamJsonRpc.resources.exe'
+2021-09-19T02:24:12.4166647+03:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.15'
+2021-09-19T02:24:12.4170329+03:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.15'
+2021-09-19T02:24:12.4170426+03:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.15\StreamJsonRpc.resources.dll'
+2021-09-19T02:24:12.4170998+03:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.15\StreamJsonRpc.resources.exe'
+2021-09-19T02:24:12.4171522+03:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.15'
+2021-09-19T02:24:12.4173878+03:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.15'
+2021-09-19T02:24:12.4173957+03:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.15\StreamJsonRpc.resources.dll'
+2021-09-19T02:24:12.4174479+03:00:[AssemblyCache] Trying to resolve 'StreamJsonRpc.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.15\StreamJsonRpc.resources.exe'
+2021-09-19T02:24:12.4174915+03:00:[AssemblyCache] Could not resolve 'StreamJsonRpc.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.15'
+2021-09-19T02:24:12.4186550+03:00:Assembly resolving StreamJsonRpc.resources, Version=1.4.0.0, Culture=ar, PublicKeyToken=b03f5f7f11d50a3a
+2021-09-19T02:24:12.4195195+03:00:Assembly resolving Microsoft.VisualStudio.Threading, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2021-09-19T02:24:12.4195336+03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' from .deps.json file
+2021-09-19T02:24:12.4195361+03:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' from .deps.json
+2021-09-19T02:24:12.4195407+03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\pc\Desktop\.NET\phase4\project-4\OnlineShoppingStore\OnlineShoppingStore\SpecFlowProject1\bin\Debug\netcoreapp3.1'
+2021-09-19T02:24:12.4195479+03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\pc\Desktop\.NET\phase4\project-4\OnlineShoppingStore\OnlineShoppingStore\SpecFlowProject1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll'
+2021-09-19T02:24:12.4196061+03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\pc\Desktop\.NET\phase4\project-4\OnlineShoppingStore\OnlineShoppingStore\SpecFlowProject1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.exe'
+2021-09-19T02:24:12.4196534+03:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\pc\Desktop\.NET\phase4\project-4\OnlineShoppingStore\OnlineShoppingStore\SpecFlowProject1\bin\Debug\netcoreapp3.1'
+2021-09-19T02:24:12.4196577+03:00:TargetFramework: .NETCoreApp,Version=v3.1
+2021-09-19T02:24:12.4196772+03:00:Tfm: netcoreapp3.1
+2021-09-19T02:24:12.4196808+03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\pc\Desktop\.NET\phase4\project-4\OnlineShoppingStore\OnlineShoppingStore\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-09-19T02:24:12.4196823+03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\pc\Desktop\.NET\phase4\project-4\OnlineShoppingStore\OnlineShoppingStore\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll'
+2021-09-19T02:24:12.4197954+03:00:[AssemblyCache] Found file 'C:\Users\pc\Desktop\.NET\phase4\project-4\OnlineShoppingStore\OnlineShoppingStore\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll' for assembly 'Microsoft.VisualStudio.Threading'
+2021-09-19T02:24:12.4208395+03:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.Threading' to C:\Users\pc\Desktop\.NET\phase4\project-4\OnlineShoppingStore\OnlineShoppingStore\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll
+2021-09-19T02:24:12.7424045+03:00:Remote executor port received: 32770
+2021-09-19T02:24:12.7432889+03:00:Creating executor TCP client on port 32770
+2021-09-19T02:24:12.7439966+03:00:Created executor TCP client on port 32770
+2021-09-19T02:24:12.7440110+03:00:Connecting to remote executor TCP server
+2021-09-19T02:24:12.7461806+03:00:Connected remote executor TCP server
+2021-09-19T02:24:12.7464281+03:00:trying to connect to Out of Process Executor the 1 attempt
+2021-09-19T02:24:12.7464430+03:00:Connection to Out of Process Executor established in the 1 attempt
+2021-09-19T02:24:12.9927652+03:00:2021-09-19T02:24:12.9899215+03:00:OutOfProcessTestAssemblyExecutor: initialized for C:\Users\pc\Desktop\.NET\phase4\project-4\OnlineShoppingStore\OnlineShoppingStore\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowProject1.dll on test thread #0
+2021-09-19T02:24:12.9995782+03:00:Endpoint 26984 started
+2021-09-19T02:24:13.0271672+03:00:2021-09-19T02:24:13.0262901+03:00:OutOfProcessTestAssemblyExecutor: running tests...
+2021-09-19T02:24:13.2036802+03:00:2021-09-19T02:24:13.2028699+03:00:Assembly resolving TechTalk.SpecFlow, Version=3.9.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2021-09-19T02:24:13.2098480+03:00:2021-09-19T02:24:13.2089708+03:00:[AssemblyCache] Trying to resolve 'TechTalk.SpecFlow' from .deps.json file
+2021-09-19T02:24:13.2148230+03:00:2021-09-19T02:24:13.2139468+03:00:[AssemblyCache] Resolved 'TechTalk.SpecFlow' to 'C:\Users\pc\.nuget\packages\specflow\3.9.8\lib\netstandard2.0\TechTalk.SpecFlow.dll'
+2021-09-19T02:24:13.4051461+03:00:2021-09-19T02:24:13.4030506+03:00:Thread#0:T:-> Loading plugin C:\Users\pc\Desktop\.NET\phase4\project-4\OnlineShoppingStore\OnlineShoppingStore\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowProject1.dll
+2021-09-19T02:24:13.4104236+03:00:2021-09-19T02:24:13.4080420+03:00:Assembly resolving Microsoft.Extensions.DependencyModel, Version=1.0.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2021-09-19T02:24:13.4138528+03:00:2021-09-19T02:24:13.4120277+03:00:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.DependencyModel' from .deps.json file
+2021-09-19T02:24:13.4176635+03:00:2021-09-19T02:24:13.4154957+03:00:[AssemblyCache] Resolved 'Microsoft.Extensions.DependencyModel' to 'C:\Users\pc\.nuget\packages\microsoft.extensions.dependencymodel\1.0.3\lib\netstandard1.6\Microsoft.Extensions.DependencyModel.dll'
+2021-09-19T02:24:13.4998949+03:00:2021-09-19T02:24:13.4980684+03:00:Assembly resolving Microsoft.DotNet.PlatformAbstractions, Version=1.0.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2021-09-19T02:24:13.5014076+03:00:2021-09-19T02:24:13.5006206+03:00:[AssemblyCache] Trying to resolve 'Microsoft.DotNet.PlatformAbstractions' from .deps.json file
+2021-09-19T02:24:13.5032869+03:00:2021-09-19T02:24:13.5022983+03:00:[AssemblyCache] Resolved 'Microsoft.DotNet.PlatformAbstractions' to 'C:\Users\pc\.nuget\packages\microsoft.dotnet.platformabstractions\1.0.3\lib\netstandard1.3\Microsoft.DotNet.PlatformAbstractions.dll'
+2021-09-19T02:24:13.5178568+03:00:2021-09-19T02:24:13.5169276+03:00:Thread#0:T:-> Missing [assembly:RuntimePlugin] attribute in SpecFlowProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null. Please check https://go.specflow.org/doc-plugins for details.
+2021-09-19T02:24:13.5191616+03:00:2021-09-19T02:24:13.5184533+03:00:Thread#0:T:-> Loading plugin C:\Users\pc\Desktop\.NET\phase4\project-4\OnlineShoppingStore\OnlineShoppingStore\SpecFlowProject1\bin\Debug\netcoreapp3.1\LivingDoc.SpecFlowPlugin.dll
+2021-09-19T02:24:13.5234639+03:00:2021-09-19T02:24:13.5226404+03:00:Assembly resolving LivingDoc.Dtos, Version=3.9.0.0, Culture=neutral, PublicKeyToken=null
+2021-09-19T02:24:13.5251842+03:00:2021-09-19T02:24:13.5239941+03:00:[AssemblyCache] Trying to resolve 'LivingDoc.Dtos' from .deps.json file
+2021-09-19T02:24:13.5271961+03:00:2021-09-19T02:24:13.5263006+03:00:[AssemblyCache] Resolved 'LivingDoc.Dtos' to 'C:\Users\pc\.nuget\packages\specflow.plus.livingdocplugin\3.9.5\lib\netstandard2.0\LivingDoc.Dtos.dll'
+2021-09-19T02:24:13.5314166+03:00:2021-09-19T02:24:13.5306987+03:00:Thread#0:T:-> Loading plugin C:\Users\pc\Desktop\.NET\phase4\project-4\OnlineShoppingStore\OnlineShoppingStore\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecRun.Runtime.SpecFlowPlugin.dll
+2021-09-19T02:24:13.5456684+03:00:2021-09-19T02:24:13.5449153+03:00:Thread#0:T:-> Using default config
+2021-09-19T02:24:13.5608594+03:00:2021-09-19T02:24:13.5601293+03:00:Assembly resolving Cucumber.Messages, Version=6.0.1.0, Culture=neutral, PublicKeyToken=b10c5988214f940c
+2021-09-19T02:24:13.5618209+03:00:2021-09-19T02:24:13.5612095+03:00:[AssemblyCache] Trying to resolve 'Cucumber.Messages' from .deps.json file
+2021-09-19T02:24:13.5630539+03:00:2021-09-19T02:24:13.5624438+03:00:[AssemblyCache] Resolved 'Cucumber.Messages' to 'C:\Users\pc\.nuget\packages\cucumber.messages\6.0.1\lib\netstandard2.0\Cucumber.Messages.dll'
+2021-09-19T02:24:13.5652973+03:00:2021-09-19T02:24:13.5646949+03:00:Assembly resolving Google.Protobuf, Version=3.7.0.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604
+2021-09-19T02:24:13.5662824+03:00:2021-09-19T02:24:13.5656047+03:00:[AssemblyCache] Trying to resolve 'Google.Protobuf' from .deps.json file
+2021-09-19T02:24:13.5673918+03:00:2021-09-19T02:24:13.5668373+03:00:[AssemblyCache] Resolved 'Google.Protobuf' to 'C:\Users\pc\.nuget\packages\google.protobuf\3.7.0\lib\netstandard1.0\Google.Protobuf.dll'
+2021-09-19T02:24:13.5766391+03:00:2021-09-19T02:24:13.5757997+03:00:Assembly resolving Microsoft.VisualStudio.TestPlatform.ObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2021-09-19T02:24:13.5775941+03:00:2021-09-19T02:24:13.5770213+03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.ObjectModel' from .deps.json file
+2021-09-19T02:24:13.5789385+03:00:2021-09-19T02:24:13.5783594+03:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.TestPlatform.ObjectModel' to 'C:\Users\pc\.nuget\packages\microsoft.testplatform.objectmodel\16.5.0\lib\netstandard2.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll'
+2021-09-19T02:24:13.6252002+03:00:2021-09-19T02:24:13.6241159+03:00:Assembly resolving SpecFlow.Internal.Json, Version=1.0.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2021-09-19T02:24:13.6264711+03:00:2021-09-19T02:24:13.6256093+03:00:[AssemblyCache] Trying to resolve 'SpecFlow.Internal.Json' from .deps.json file
+2021-09-19T02:24:13.6280521+03:00:2021-09-19T02:24:13.6272224+03:00:[AssemblyCache] Resolved 'SpecFlow.Internal.Json' to 'C:\Users\pc\.nuget\packages\specflow.internal.json\1.0.8\lib\netstandard2.0\SpecFlow.Internal.Json.dll'
+2021-09-19T02:24:13.7576079+03:00:Thread#0: Test #4/0 is started on thread #0
+2021-09-19T02:24:13.7910449+03:00:2021-09-19T02:24:13.7894181+03:00:Thread#0:B:Given I lanunch the site
+2021-09-19T02:24:13.8117374+03:00:2021-09-19T02:24:13.8110235+03:00:Assembly resolving WebDriver, Version=3.141.0.0, Culture=neutral, PublicKeyToken=null
+2021-09-19T02:24:13.8125730+03:00:2021-09-19T02:24:13.8120672+03:00:[AssemblyCache] Trying to resolve 'WebDriver' from .deps.json file
+2021-09-19T02:24:13.8137868+03:00:2021-09-19T02:24:13.8131936+03:00:[AssemblyCache] Resolved 'WebDriver' to 'C:\Users\pc\.nuget\packages\selenium.webdriver\3.141.0\lib\netstandard2.0\WebDriver.dll'
+2021-09-19T02:24:17.9377885+03:00:2021-09-19T02:24:17.9357607+03:00:Assembly resolving System.Net.Requests.resources, Version=4.1.2.0, Culture=ar-SA, PublicKeyToken=b03f5f7f11d50a3a
+2021-09-19T02:24:17.9395487+03:00:2021-09-19T02:24:17.9387407+03:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' from .deps.json file
+2021-09-19T02:24:17.9503671+03:00:2021-09-19T02:24:17.9399616+03:00:[AssemblyCache] Could not resolve 'System.Net.Requests.resources' from .deps.json
+2021-09-19T02:24:17.9525804+03:00:2021-09-19T02:24:17.9521018+03:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' in folder 'C:\Users\pc\Desktop\.NET\phase4\project-4\OnlineShoppingStore\OnlineShoppingStore\SpecFlowProject1\bin\Debug\netcoreapp3.1'
+2021-09-19T02:24:17.9563210+03:00:2021-09-19T02:24:17.9557615+03:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Users\pc\Desktop\.NET\phase4\project-4\OnlineShoppingStore\OnlineShoppingStore\SpecFlowProject1\bin\Debug\netcoreapp3.1\System.Net.Requests.resources.dll'
+2021-09-19T02:24:17.9576172+03:00:2021-09-19T02:24:17.9568413+03:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Users\pc\Desktop\.NET\phase4\project-4\OnlineShoppingStore\OnlineShoppingStore\SpecFlowProject1\bin\Debug\netcoreapp3.1\System.Net.Requests.resources.exe'
+2021-09-19T02:24:17.9586637+03:00:2021-09-19T02:24:17.9581385+03:00:[AssemblyCache] Could not resolve 'System.Net.Requests.resources' in folder 'C:\Users\pc\Desktop\.NET\phase4\project-4\OnlineShoppingStore\OnlineShoppingStore\SpecFlowProject1\bin\Debug\netcoreapp3.1'
+2021-09-19T02:24:17.9599383+03:00:2021-09-19T02:24:17.9592172+03:00:TargetFramework: .NETCoreApp,Version=v3.1
+2021-09-19T02:24:17.9611455+03:00:2021-09-19T02:24:17.9606823+03:00:Tfm: netcoreapp3.1
+2021-09-19T02:24:17.9617236+03:00:2021-09-19T02:24:17.9613456+03:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' in folder 'C:\Users\pc\Desktop\.NET\phase4\project-4\OnlineShoppingStore\OnlineShoppingStore\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-09-19T02:24:17.9622880+03:00:2021-09-19T02:24:17.9619332+03:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Users\pc\Desktop\.NET\phase4\project-4\OnlineShoppingStore\OnlineShoppingStore\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\System.Net.Requests.resources.dll'
+2021-09-19T02:24:17.9629451+03:00:2021-09-19T02:24:17.9625881+03:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Users\pc\Desktop\.NET\phase4\project-4\OnlineShoppingStore\OnlineShoppingStore\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\System.Net.Requests.resources.exe'
+2021-09-19T02:24:17.9635451+03:00:2021-09-19T02:24:17.9632224+03:00:[AssemblyCache] Could not resolve 'System.Net.Requests.resources' in folder 'C:\Users\pc\Desktop\.NET\phase4\project-4\OnlineShoppingStore\OnlineShoppingStore\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-09-19T02:24:17.9704929+03:00:2021-09-19T02:24:17.9699843+03:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.15'
+2021-09-19T02:24:17.9711874+03:00:2021-09-19T02:24:17.9707794+03:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.15\System.Net.Requests.resources.dll'
+2021-09-19T02:24:17.9721316+03:00:2021-09-19T02:24:17.9714708+03:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.15\System.Net.Requests.resources.exe'
+2021-09-19T02:24:17.9731578+03:00:2021-09-19T02:24:17.9726564+03:00:[AssemblyCache] Could not resolve 'System.Net.Requests.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.15'
+2021-09-19T02:24:17.9750208+03:00:2021-09-19T02:24:17.9743698+03:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.15'
+2021-09-19T02:24:17.9757087+03:00:2021-09-19T02:24:17.9752921+03:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.15\System.Net.Requests.resources.dll'
+2021-09-19T02:24:17.9768377+03:00:2021-09-19T02:24:17.9761498+03:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.15\System.Net.Requests.resources.exe'
+2021-09-19T02:24:17.9776409+03:00:2021-09-19T02:24:17.9772098+03:00:[AssemblyCache] Could not resolve 'System.Net.Requests.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.15'
+2021-09-19T02:24:17.9784472+03:00:2021-09-19T02:24:17.9780434+03:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.15'
+2021-09-19T02:24:17.9789190+03:00:2021-09-19T02:24:17.9786095+03:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.15\System.Net.Requests.resources.dll'
+2021-09-19T02:24:17.9794756+03:00:2021-09-19T02:24:17.9791246+03:00:[AssemblyCache] Trying to resolve 'System.Net.Requests.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.15\System.Net.Requests.resources.exe'
+2021-09-19T02:24:17.9800089+03:00:2021-09-19T02:24:17.9796682+03:00:[AssemblyCache] Could not resolve 'System.Net.Requests.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.15'
+2021-09-19T02:24:17.9814300+03:00:2021-09-19T02:24:17.9809886+03:00:Assembly resolving System.Net.Requests.resources, Version=4.1.2.0, Culture=ar, PublicKeyToken=b03f5f7f11d50a3a
+2021-09-19T02:24:18.0166743+03:00:2021-09-19T02:24:18.0160890+03:00:Thread#0:T:error: Expected browser binary location, but unable to find binary in default location, no 'moz:firefoxOptions.binary' capability provided, and no binary flag set on the command line (SessionNotCreated) (4.2s)
+2021-09-19T02:24:18.0194412+03:00:2021-09-19T02:24:18.0189128+03:00:Thread#0:B:And I click login link
+2021-09-19T02:24:18.0209822+03:00:2021-09-19T02:24:18.0205446+03:00:Thread#0:T:skipped because of previous errors
+2021-09-19T02:24:18.0293633+03:00:2021-09-19T02:24:18.0288446+03:00:Thread#0:B:And I enter the following detals
+2021-09-19T02:24:18.0300063+03:00:2021-09-19T02:24:18.0296154+03:00:Thread#0:B:  --- table step argument ---
+2021-09-19T02:24:18.0305206+03:00:2021-09-19T02:24:18.0301752+03:00:Thread#0:B:  | UserName | password |
+2021-09-19T02:24:18.0311504+03:00:2021-09-19T02:24:18.0307580+03:00:Thread#0:B:  | abdullah | 123      |
+2021-09-19T02:24:18.0324636+03:00:2021-09-19T02:24:18.0320172+03:00:Thread#0:T:skipped because of previous errors
+2021-09-19T02:24:18.0332173+03:00:2021-09-19T02:24:18.0328491+03:00:Thread#0:B:And I click login boutton
+2021-09-19T02:24:18.0338403+03:00:2021-09-19T02:24:18.0334791+03:00:Thread#0:T:skipped because of previous errors
+2021-09-19T02:24:18.0345743+03:00:2021-09-19T02:24:18.0342324+03:00:Thread#0:B:Then go to dashebord
+2021-09-19T02:24:18.0350818+03:00:2021-09-19T02:24:18.0347761+03:00:Thread#0:T:skipped because of previous errors
+2021-09-19T02:24:18.0521155+03:00:Thread#0:TestItem#4:Scheduler: reschedule tests for testitem #4
+2021-09-19T02:24:18.0539223+03:00:Thread#0:Scheduler: get next test for thread 0
+2021-09-19T02:24:18.0539775+03:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2021-09-19T02:24:18.0539822+03:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2021-09-19T02:24:18.0540543+03:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2021-09-19T02:24:18.0540608+03:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2021-09-19T02:24:18.0540623+03:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2021-09-19T02:24:18.0540639+03:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2021-09-19T02:24:18.0541472+03:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2021-09-19T02:24:18.0541842+03:00:Thread#0:Scheduler: with testItemExecutionIndex 1
+2021-09-19T02:24:18.0990254+03:00:Thread#0: Test #4/0 is finished on thread #0 as Failed within 4.3399546 seconds
+2021-09-19T02:24:18.1015803+03:00:Thread#0: Test #4/1 is started on thread #0
+2021-09-19T02:24:18.1027456+03:00:2021-09-19T02:24:18.1022945+03:00:Thread#0:B:Given I lanunch the site
+2021-09-19T02:24:22.1452427+03:00:2021-09-19T02:24:22.1438859+03:00:Thread#0:T:error: Expected browser binary location, but unable to find binary in default location, no 'moz:firefoxOptions.binary' capability provided, and no binary flag set on the command line (SessionNotCreated) (4.0s)
+2021-09-19T02:24:22.1477389+03:00:2021-09-19T02:24:22.1464577+03:00:Thread#0:B:And I click login link
+2021-09-19T02:24:22.1499060+03:00:2021-09-19T02:24:22.1488642+03:00:Thread#0:T:skipped because of previous errors
+2021-09-19T02:24:22.1523292+03:00:2021-09-19T02:24:22.1513371+03:00:Thread#0:B:And I enter the following detals
+2021-09-19T02:24:22.1532523+03:00:2021-09-19T02:24:22.1528617+03:00:Thread#0:B:  --- table step argument ---
+2021-09-19T02:24:22.1537631+03:00:2021-09-19T02:24:22.1534538+03:00:Thread#0:B:  | UserName | password |
+2021-09-19T02:24:22.1542741+03:00:2021-09-19T02:24:22.1539586+03:00:Thread#0:B:  | abdullah | 123      |
+2021-09-19T02:24:22.1550960+03:00:2021-09-19T02:24:22.1547617+03:00:Thread#0:T:skipped because of previous errors
+2021-09-19T02:24:22.1557177+03:00:2021-09-19T02:24:22.1554449+03:00:Thread#0:B:And I click login boutton
+2021-09-19T02:24:22.1562562+03:00:2021-09-19T02:24:22.1559527+03:00:Thread#0:T:skipped because of previous errors
+2021-09-19T02:24:22.1567535+03:00:2021-09-19T02:24:22.1564674+03:00:Thread#0:B:Then go to dashebord
+2021-09-19T02:24:22.1572826+03:00:2021-09-19T02:24:22.1569702+03:00:Thread#0:T:skipped because of previous errors
+2021-09-19T02:24:22.1591577+03:00:Thread#0:Scheduler: get next test for thread 0
+2021-09-19T02:24:22.1591829+03:00:Thread#:Scheduler: dequeuing a rescheduled testitem: #4
+2021-09-19T02:24:22.1591863+03:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2021-09-19T02:24:22.1592495+03:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2021-09-19T02:24:22.1592525+03:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2021-09-19T02:24:22.1592538+03:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2021-09-19T02:24:22.1592549+03:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2021-09-19T02:24:22.1592864+03:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2021-09-19T02:24:22.1593113+03:00:Thread#0:Scheduler: with testItemExecutionIndex 2
+2021-09-19T02:24:22.1611583+03:00:Thread#0: Test #4/1 is finished on thread #0 as Failed within 4.0595005 seconds
+2021-09-19T02:24:22.1616594+03:00:Thread#0: Test #4/2 is started on thread #0
+2021-09-19T02:24:22.1624439+03:00:2021-09-19T02:24:22.1620850+03:00:Thread#0:B:Given I lanunch the site
+2021-09-19T02:24:26.1991950+03:00:2021-09-19T02:24:26.1980052+03:00:Thread#0:T:error: Expected browser binary location, but unable to find binary in default location, no 'moz:firefoxOptions.binary' capability provided, and no binary flag set on the command line (SessionNotCreated) (4.0s)
+2021-09-19T02:24:26.2004809+03:00:2021-09-19T02:24:26.2000811+03:00:Thread#0:B:And I click login link
+2021-09-19T02:24:26.2014424+03:00:2021-09-19T02:24:26.2009728+03:00:Thread#0:T:skipped because of previous errors
+2021-09-19T02:24:26.2022359+03:00:2021-09-19T02:24:26.2018613+03:00:Thread#0:B:And I enter the following detals
+2021-09-19T02:24:26.2027165+03:00:2021-09-19T02:24:26.2024097+03:00:Thread#0:B:  --- table step argument ---
+2021-09-19T02:24:26.2031302+03:00:2021-09-19T02:24:26.2028683+03:00:Thread#0:B:  | UserName | password |
+2021-09-19T02:24:26.2035000+03:00:2021-09-19T02:24:26.2032674+03:00:Thread#0:B:  | abdullah | 123      |
+2021-09-19T02:24:26.2039968+03:00:2021-09-19T02:24:26.2037500+03:00:Thread#0:T:skipped because of previous errors
+2021-09-19T02:24:26.2044873+03:00:2021-09-19T02:24:26.2042529+03:00:Thread#0:B:And I click login boutton
+2021-09-19T02:24:26.2049541+03:00:2021-09-19T02:24:26.2047201+03:00:Thread#0:T:skipped because of previous errors
+2021-09-19T02:24:26.2053574+03:00:2021-09-19T02:24:26.2051209+03:00:Thread#0:B:Then go to dashebord
+2021-09-19T02:24:26.2057357+03:00:2021-09-19T02:24:26.2055042+03:00:Thread#0:T:skipped because of previous errors
+2021-09-19T02:24:26.2073172+03:00:Thread#0:Scheduler: get next test for thread 0
+2021-09-19T02:24:26.2073427+03:00:Thread#:Scheduler: at the end of normal test queue
+2021-09-19T02:24:26.2073446+03:00:Thread#0:Scheduler: enumerator for thread is at end
+2021-09-19T02:24:26.2073467+03:00:Thread#0:Scheduler: No more tests for thread
+2021-09-19T02:24:26.2123620+03:00:Thread#0: Test #4/2 is finished on thread #0 as Failed within 4.0506255 seconds
+2021-09-19T02:24:26.2183054+03:00:2021-09-19T02:24:26.2178791+03:00:Got Deinitialize Signal
+2021-09-19T02:24:26.2207434+03:00:RPC Client disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Stream has been disposed
+Exception:<none>
+2021-09-19T02:24:26.2210014+03:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Reached end of stream.
+Exception:<none>
+2021-09-19T02:24:26.2218360+03:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Reached end of stream.
+Exception:<none>
+2021-09-19T02:24:26.2233387+03:00:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.2.0, Culture=ar-SA, PublicKeyToken=b03f5f7f11d50a3a
+2021-09-19T02:24:26.2233553+03:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' from .deps.json file
+2021-09-19T02:24:26.2233592+03:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' from .deps.json
+2021-09-19T02:24:26.2233634+03:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\pc\Desktop\.NET\phase4\project-4\OnlineShoppingStore\OnlineShoppingStore\SpecFlowProject1\bin\Debug\netcoreapp3.1'
+2021-09-19T02:24:26.2233657+03:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\pc\Desktop\.NET\phase4\project-4\OnlineShoppingStore\OnlineShoppingStore\SpecFlowProject1\bin\Debug\netcoreapp3.1\System.Diagnostics.Process.resources.dll'
+2021-09-19T02:24:26.2233980+03:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\pc\Desktop\.NET\phase4\project-4\OnlineShoppingStore\OnlineShoppingStore\SpecFlowProject1\bin\Debug\netcoreapp3.1\System.Diagnostics.Process.resources.exe'
+2021-09-19T02:24:26.2234226+03:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\pc\Desktop\.NET\phase4\project-4\OnlineShoppingStore\OnlineShoppingStore\SpecFlowProject1\bin\Debug\netcoreapp3.1'
+2021-09-19T02:24:26.2234280+03:00:TargetFramework: .NETCoreApp,Version=v3.1
+2021-09-19T02:24:26.2234744+03:00:Tfm: netcoreapp3.1
+2021-09-19T02:24:26.2234772+03:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\pc\Desktop\.NET\phase4\project-4\OnlineShoppingStore\OnlineShoppingStore\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-09-19T02:24:26.2234779+03:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\pc\Desktop\.NET\phase4\project-4\OnlineShoppingStore\OnlineShoppingStore\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\System.Diagnostics.Process.resources.dll'
+2021-09-19T02:24:26.2235151+03:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\pc\Desktop\.NET\phase4\project-4\OnlineShoppingStore\OnlineShoppingStore\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\System.Diagnostics.Process.resources.exe'
+2021-09-19T02:24:26.2235480+03:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\pc\Desktop\.NET\phase4\project-4\OnlineShoppingStore\OnlineShoppingStore\SpecFlowProject1\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-09-19T02:24:26.2240738+03:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.15'
+2021-09-19T02:24:26.2240801+03:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.15\System.Diagnostics.Process.resources.dll'
+2021-09-19T02:24:26.2241207+03:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.15\System.Diagnostics.Process.resources.exe'
+2021-09-19T02:24:26.2241479+03:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.15'
+2021-09-19T02:24:26.2242665+03:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.15'
+2021-09-19T02:24:26.2242708+03:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.15\System.Diagnostics.Process.resources.dll'
+2021-09-19T02:24:26.2243025+03:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.15\System.Diagnostics.Process.resources.exe'
+2021-09-19T02:24:26.2243281+03:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.15'
+2021-09-19T02:24:26.2244463+03:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.15'
+2021-09-19T02:24:26.2244511+03:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.15\System.Diagnostics.Process.resources.dll'
+2021-09-19T02:24:26.2244863+03:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.15\System.Diagnostics.Process.resources.exe'
+2021-09-19T02:24:26.2245125+03:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.15'
+2021-09-19T02:24:26.2248395+03:00:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.2.0, Culture=ar, PublicKeyToken=b03f5f7f11d50a3a
+2021-09-19T02:24:26.2293474+03:00:Thread#-1:Scheduler: get next test for thread -1
+2021-09-19T02:24:26.2293692+03:00:Thread#:Scheduler: at the end of normal test queue
+2021-09-19T02:24:26.2293710+03:00:Thread#-1:Scheduler: enumerator for thread is at end
+2021-09-19T02:24:26.2341906+03:00;Thread#12;Info;test run finished
+2021-09-19T02:24:26.2345997+03:00;Thread#12;Info;publishing test results
+2021-09-19T02:24:26.2350204+03:00;Thread#12;Info;Not publishing results.
+2021-09-19T02:24:26.2352815+03:00;Thread#12;Info;test results published
+2021-09-19T02:24:26.2355126+03:00;Thread#12;Info;generating reports
+2021-09-19T02:24:26.3083835+03:00;Thread#12;Info;Starting external report generation process
+2021-09-19T02:24:27.8929404+03:00;Thread#12;Info;Successfully generated reports.
+2021-09-19T02:24:27.8956859+03:00;Thread#12;Info;Successfully generated reports
+2021-09-19T02:24:27.9041810+03:00:Total: 1 (test executions: 3)
+2021-09-19T02:24:27.9061506+03:00:Succeeded: 0
+2021-09-19T02:24:27.9064639+03:00:Ignored: 0
+2021-09-19T02:24:27.9067326+03:00:Pending: 0
+2021-09-19T02:24:27.9067419+03:00:Skipped: 0
+2021-09-19T02:24:27.9069973+03:00:Failed: 1
+2021-09-19T02:24:27.9138809+03:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2021-09-19T02:24:27.9141850+03:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\pc\Desktop\.NET\phase4\project-4\OnlineShoppingStore\OnlineShoppingStore\TestResults\Unnamed project__2021-09-19T022411.html'
+========== End of log file ==========

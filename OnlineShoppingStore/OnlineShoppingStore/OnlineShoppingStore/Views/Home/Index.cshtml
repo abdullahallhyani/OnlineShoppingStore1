@@ -86,7 +86,7 @@
                         {
                             using (Html.BeginForm("AddToCart", "Home", new { productId = item.ProductId, url = "Index" }, FormMethod.Post))
                             {
-                                <button type="submit" class="pull-right"><i class="fa fa-shopping-cart"></i></button>
+                                <button id="@item.ProductId"  type="submit"  class="pull-right "><i  class="fa fa-shopping-cart "></i ></button>
                             }
                         <p>Available</p>
                     }

@@ -1,0 +1,59 @@
+﻿2021-09-19T04:33:37.3322455+03:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2021-09-19T04:33:37.3324808+03:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.9.7 in Framework netcore31 in x64 mode execution started
+2021-09-19T04:33:37.3324852+03:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\pc\Desktop\.NET\phase4\project-4\OnlineShoppingStore\OnlineShoppingStore\SpecFlowProject2\bin\Debug\netcoreapp3.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2021-09-19T04:33:37.3351736+03:00;VSTestExecutionThread;Info;Current UserName: 'pc', MachineName: 'LAPTOP-A1FCB940'
+2021-09-19T04:33:37.3691085+03:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\pc\Desktop\.NET\phase4\project-4\OnlineShoppingStore\OnlineShoppingStore\SpecFlowProject2\bin\Debug\netcoreapp3.1\SpecFlowProject2.dll
+2021-09-19T04:33:37.3695614+03:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\pc\Desktop\.NET\phase4\project-4\OnlineShoppingStore\OnlineShoppingStore\TestResults" (default)
+2021-09-19T04:33:37.3698794+03:00;VSTestExecutionThread;Info;Profile: 
+2021-09-19T04:33:37.4407514+03:00;VSTestExecutionThread;Info;Log file path: C:\Users\pc\Desktop\.NET\phase4\project-4\OnlineShoppingStore\OnlineShoppingStore\TestResults\Unnamed project__2021-09-19T043337.log
+2021-09-19T04:33:37.4482614+03:00;Thread#12;Info;Checking activation
+2021-09-19T04:33:37.5692533+03:00;Thread#12;Info;Activated.
+2021-09-19T04:33:37.5698228+03:00;Thread#12;Info;Activation check completed
+2021-09-19T04:33:37.5701774+03:00;Thread#12;Info;Starting test run
+2021-09-19T04:33:37.6921165+03:00;Thread#12;Info;Discovering target: Default
+2021-09-19T04:33:37.6926977+03:00;Thread#12;Info;Discovering tests from assembly: C:\Users\pc\Desktop\.NET\phase4\project-4\OnlineShoppingStore\OnlineShoppingStore\SpecFlowProject2\bin\Debug\netcoreapp3.1\SpecFlowProject2.dll
+2021-09-19T04:33:37.8000654+03:00;Thread#12;Info;Discovered tests from assembly: C:\Users\pc\Desktop\.NET\phase4\project-4\OnlineShoppingStore\OnlineShoppingStore\SpecFlowProject2\bin\Debug\netcoreapp3.1\SpecFlowProject2.dll
+2021-09-19T04:33:37.8018501+03:00:Test Suite Dump
+2021-09-19T04:33:37.8040744+03:00:#0: Unnamed project/ - 
+2021-09-19T04:33:37.8041081+03:00:#1: Default - 
+2021-09-19T04:33:37.8041112+03:00:#2: SpecFlowProject2 - 
+2021-09-19T04:33:37.8041132+03:00:#3: Login1 - 
+2021-09-19T04:33:37.8057540+03:00:#4: preform Login of Joe’s Pizza demo site - TestAssembly:SpecFlowProject2/Feature:Login1/Scenario:preform+Login+of+Joe%e2%80%99s+Pizza+demo+site
+2021-09-19T04:33:37.8057988+03:00:End: Test Suite Dump
+2021-09-19T04:33:37.8275654+03:00:Thread#0:Scheduler: get next test for thread 0
+2021-09-19T04:33:37.8300013+03:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2021-09-19T04:33:37.8300757+03:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2021-09-19T04:33:37.8344990+03:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2021-09-19T04:33:37.8345184+03:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2021-09-19T04:33:37.8345211+03:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2021-09-19T04:33:37.8345251+03:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2021-09-19T04:33:37.8353584+03:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2021-09-19T04:33:37.8367258+03:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2021-09-19T04:33:37.8395629+03:00:Thread #0: creating new test thread executor for SpecFlowProject2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2021-09-19T04:33:37.8427478+03:00:Thread #0: Creating test assembly executor for execution model OutProc
+2021-09-19T04:33:37.8430183+03:00:Thread #0: Creating test assembly executor for execution model OutProc
+2021-09-19T04:33:37.8466930+03:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.OutOfProc.StreamJsonRPC.OutOfProcessTestAssemblyExecutorHost to execute tests
+2021-09-19T04:33:37.8492987+03:00:starting Out Of Process Executor
+2021-09-19T04:33:37.8521335+03:00:Assembly resolving Microsoft.VisualStudio.Validation, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2021-09-19T04:33:37.8557439+03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' from .deps.json file
+2021-09-19T04:33:37.8557617+03:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' from .deps.json
+2021-09-19T04:33:37.8573070+03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\pc\Desktop\.NET\phase4\project-4\OnlineShoppingStore\OnlineShoppingStore\SpecFlowProject2\bin\Debug\netcoreapp3.1'
+2021-09-19T04:33:37.8577627+03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\pc\Desktop\.NET\phase4\project-4\OnlineShoppingStore\OnlineShoppingStore\SpecFlowProject2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll'
+2021-09-19T04:33:37.8579093+03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\pc\Desktop\.NET\phase4\project-4\OnlineShoppingStore\OnlineShoppingStore\SpecFlowProject2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.exe'
+2021-09-19T04:33:37.8579683+03:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\pc\Desktop\.NET\phase4\project-4\OnlineShoppingStore\OnlineShoppingStore\SpecFlowProject2\bin\Debug\netcoreapp3.1'
+2021-09-19T04:33:37.8582147+03:00:TargetFramework: .NETCoreApp,Version=v3.1
+2021-09-19T04:33:37.8589623+03:00:Tfm: netcoreapp3.1
+2021-09-19T04:33:37.8589762+03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\pc\Desktop\.NET\phase4\project-4\OnlineShoppingStore\OnlineShoppingStore\SpecFlowProject2\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-09-19T04:33:37.8589842+03:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\pc\Desktop\.NET\phase4\project-4\OnlineShoppingStore\OnlineShoppingStore\SpecFlowProject2\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll'
+2021-09-19T04:33:37.8591364+03:00:[AssemblyCache] Found file 'C:\Users\pc\Desktop\.NET\phase4\project-4\OnlineShoppingStore\OnlineShoppingStore\SpecFlowProject2\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll' for assembly 'Microsoft.VisualStudio.Validation'
+2021-09-19T04:33:37.8600881+03:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.Validation' to C:\Users\pc\Desktop\.NET\phase4\project-4\OnlineShoppingStore\OnlineShoppingStore\SpecFlowProject2\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll
+2021-09-19T04:33:37.8610625+03:00:Starting callback TCP Rpc server
+2021-09-19T04:33:37.8847008+03:00:Asynchronously starting background TCP Rpc Server on port 32768
+2021-09-19T04:33:37.8847581+03:00:Started callback TCP Rpc server on port 32768
+2021-09-19T04:33:37.8847627+03:00:Starting logger TCP Rpc server
+2021-09-19T04:33:37.8887264+03:00:Asynchronously starting background TCP Rpc Server on port 32769
+2021-09-19T04:33:37.8887795+03:00:Started logger TCP Rpc server on port 32769
+2021-09-19T04:33:38.0007361+03:00:Executing test executor at 'dotnet' 'exec "C:\Users\pc\Desktop\.NET\phase4\project-4\OnlineShoppingStore\OnlineShoppingStore\SpecFlowProject2\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp3_1.dll" --remoteRunnerPid 24992 --uniqueId "2021-09-19T043337" --outputFolder "C:\Users\pc\Desktop\.NET\phase4\project-4\OnlineShoppingStore\OnlineShoppingStore\TestResults" --callbackPort 32768 --loggerPort 32769' in 'C:\Users\pc\Desktop\.NET\phase4\project-4\OnlineShoppingStore\OnlineShoppingStore\SpecFlowProject2\bin\Debug\netcoreapp3.1'
+2021-09-19T04:33:38.0457057+03:00:Executor with PID 23428 has been started successfully.
+2021-09-19T04:33:38.0510914+03:00:Out of Process Executor 23428 started
+2021-09-19T04:33:38.0511152+03:00:Waiting for endpoint
